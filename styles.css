@@ -1,0 +1,20 @@
+.main-page h1,
+.main-page ul {
+    font-weight: lighter;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.main-page h1 {
+    text-align: center;
+    color: rgb(32, 5, 41);
+    font-size: 40px;
+
+}
+
+.main-page ul {
+    text-align: left;
+    font-size: 20px;
+}
+
