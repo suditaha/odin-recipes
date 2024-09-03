@@ -78,6 +78,32 @@
     text-align: left;
 }
 
+/* Grilled Salmon Page */
+
+.salmon-page {
+    background-color: rgb(255, 177, 76);
+    font-family: monospace;
+    border-style: outset;
+    border-color: rgb(169, 100, 11);
+    text-align: center;
+    font-size: 19px;
+    outline-style: dotted;
+}
+
+.salmon-page .title {
+    font-weight: bolder;
+    font-size: 45px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+.salmon-page img {
+    height: auto;
+    width: 300px;
+}
+
+
 
 
 
