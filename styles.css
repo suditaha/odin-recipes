@@ -1,24 +1,51 @@
 /* Main Page */
+.main-page {
+  background-color: rgb(255, 238, 212);
+}
 
+.container {
+    border: 10px solid black;
+    width: 500px;
+    height: 30em;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: rgb(244, 199, 199);
+    box-shadow: 2px 2px 8px 8px rgb(145, 95, 95);
+}
 .main-page h1,
 .main-page ul {
     font-weight: lighter;
-    background-color: aquamarine;
-    font-family: Arial, Helvetica, sans-serif;
-}
+    font-family:fantasy;
 
+}
 
 .main-page h1 {
     text-align: center;
     color: rgb(32, 5, 41);
     font-size: 40px;
+    padding: 30px;
 
 }
 
 .main-page ul {
-    text-align: left;
     font-size: 20px;
+    list-style-position: inside;
+
 }
+
+#item-one {
+    margin-bottom: 4em;
+}
+
+#item-two {
+    margin-bottom: 4em;
+}
+
+
+
+
+
+
 
 /* Avocado Page */
 
